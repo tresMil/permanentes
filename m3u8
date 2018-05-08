@@ -1,6 +1,7 @@
+#EXTM3U
 #EXTINF::-0 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",TELEMUNDO
 http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.php
-#EXTM3U
+
 
 #EXTINF::-0 tvg-logo="https://i.imgur.com/ss7mYec.png" group-title="TV USA LATINO",TELEMUNDO
 http://www.onlinetv.planetfools.com/tvenvivo/telemundo-tv-en-vivo.m3u
